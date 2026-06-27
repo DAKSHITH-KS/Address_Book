@@ -1,0 +1,1 @@
+A console-based Address Book Management System developed in C. It allows users to add, view, search, edit, and delete contacts with name, phone number, and email. Input validation ensures correct and unique entries. File handling is used to save and load contacts, making contact management simple, organized, and efficient.
